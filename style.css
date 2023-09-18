@@ -1,0 +1,396 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+span, a {
+    display: inline-block;
+}
+.hammasi {
+    width: 900px;
+    margin: auto;
+    padding: 30px;
+}
+.all {
+    margin: 20px auto;
+    width: 700px;
+    display:flex ;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.ichida1 {
+    text-align: center;
+    padding: 10px 15px;
+    background-color: #C1CBE7;
+    width: 700px;
+    margin: auto;
+}
+.a {
+    margin-right: 20px;
+    color: black;
+    text-decoration: none;
+}
+.ichida2 {
+    text-align: center;
+    margin: 15px;
+}
+.ichida {
+    width: 50%;
+}
+.input {
+    padding: 10px 20px;
+    width: 50%;
+    border: 3px solid silver;
+    border-radius: 30px 0 0 30px;
+}
+.button {
+    padding: 10px 20px;
+background-color: black;
+color: white;
+border-radius: 0 30px 30px 0;
+border: none;
+}
+.input:hover {
+  border: 3px solid teal; 
+  transition: 0.7;
+
+}
+.chiziq {
+    margin-bottom: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+.chiziq1 {
+    margin: 10px;
+    width: 70px;
+    height: 5px;
+    background-color: black;
+}
+.chiziq2:hover {
+    background-color: teal;
+    transition: 0.7;
+}
+.chiziq2 {
+    margin: 10px;
+    width: 70px;
+    height: 5px;
+    background-color: silver;
+}
+.chiziq3 {
+    margin: 10px;
+    width: 70px;
+    height: 5px;
+    background-color: black;
+}
+.form {
+    width: 40;
+    display: flex;
+    flex-wrap: wrap;
+}
+.p1 {
+  font-size: 30px;
+  margin-top: 15px;
+}
+.p{
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+.sarlavha {
+    font-size: 50px;
+    margin-bottom: 15px;
+}
+.pic {
+    width: 45%;
+}
+.div1 {
+    width: 100%;
+    padding: 30px;
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.rasm {
+    width: 35%;
+}
+.di1 {
+    width: 50%;
+}
+.di2 {
+    width: 100%;
+    background-image: url(IMAGE\ \(2\).png);
+    background-repeat: no-repeat;
+    background-size: 250px;
+    background-position: left center;
+}
+.pp3 {
+    font-size: 20px;
+    color: white;
+}
+.pp2 {
+    margin: 15px;
+    margin-left: 35px;
+    font-size: 30px;
+   width: 45%;
+   color: white;
+}
+.div2 {
+    margin-top: 50px;
+}
+.divvv2 {
+    height: 570px;
+    margin-bottom: 70px;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #FCD0BA;
+    border-radius: 20px;
+}
+.divv2 {
+    height: 450px;
+    margin-bottom: 70px;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #FCD0BA;
+    border-radius: 20px;
+}
+.dii2, .di2 {
+    font-size: 40px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.divv3 {
+   width: 50%;
+}
+.hii2 {
+    font-size: 35px;
+    margin-bottom: 15px;
+}
+.pp {
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+.butt {
+    margin-bottom: 15px;
+    border: none;
+    padding: 3px 20px;
+    border-radius: 10px;
+}
+.butt1 {
+    margin-top: 20px;
+    padding: 10px 20px;
+    color: white;
+    font-weight: bold;
+    background-color: black;
+    border: none;
+    border-radius: 20px;
+}
+.div3 {
+    margin-top: 50px ;
+}
+.divv4 {
+    width: 100%;
+    margin-bottom: 70px;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #CCD3E7;
+    border-radius: 20px;
+    
+}
+.F1 {
+      font-size: 35px;
+      margin-right: 14px;
+}
+.foto {
+    width: 40%;
+}
+.divv5 {
+    width: 50%;
+}
+.divvv4 {
+    margin-bottom: 70px;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #CCD3E7;
+    border-radius: 20px;
+}
+.hii4 {
+    font-size: 35px;
+    margin-bottom: 15px;
+}
+.pp4 {
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+.dii3 , .di3 {
+    font-size: 40px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.butt3 {
+    margin-bottom: 15px;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.div4 {
+    padding: 30px;
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.mm {
+    color: white;
+}
+.mm1 {
+    color: white;
+    margin-bottom: 15px;
+}
+.foto1 {
+    width: 45%;
+}
+.div41 {
+    width: 45%;
+}
+.div42 {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.F2{
+    font-size: 10px;
+}
+.di42 {
+    margin: 10px;
+    background-color: white;
+    width: 30%;
+    text-align: center;
+    padding: 10px;
+}
+.div5 {
+    margin-top: 50px;
+    text-align: center;
+    padding: 25px;
+}
+.hhh2 {
+    font-size: 40px;
+}
+.dii55{
+    margin-top: 20px;
+}
+.divv55 {
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; 
+}
+.div55 {
+    width: 30%;
+    background-color: silver;
+    padding: 15px 25px;
+    text-align: center;
+    line-height: 1.6;
+    font-size: 25px;
+    border-radius: 25px;
+}
+.span55:hover {
+    color: aqua;
+}
+.span55 {
+    font-size: 100px;
+}
+.div6 {
+    margin-top: 60px;
+    padding: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #FCD0BA;
+}
+.di6 {
+    width: 47%;
+}
+.foto4 {
+    width:46%;
+}
+.pp66 {
+    font-size: 40px;
+    font-weight: bold;
+}
+.div7 {
+    margin-top: 50px;
+    background-color: black;
+    padding: 25px;
+}
+.divv71 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 5px solid silver;
+}
+.div71, .div72 {
+    width: 20%;
+    margin-left: 10px;
+}
+.di71 {
+    color: white;
+}
+.d71 {
+    color: white;
+    margin-bottom: 15px;
+}
+.pp71 {
+    color: white;
+    margin-top: 15px;
+    font-size: 20px;
+}
+@media (max-width:700px){
+    .divv3 {
+        width: 100%;
+        display: block;
+    }
+    .pic {
+        width: 100%;
+    }
+    .foto1{
+        width: 100%;
+    }
+    .foto4 {
+        width: 100%;
+    }
+    .div55 {
+        width: 100%;
+        height: auto;
+    }
+    .hammasi{
+        width: 100%;
+    }
+    .div6{
+        width: 100%;
+    }
+}
